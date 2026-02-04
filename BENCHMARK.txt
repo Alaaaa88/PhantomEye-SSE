@@ -1,3 +1,7 @@
-Test Date: 2026-02-04
-Total Records: 100,000
-Encryption: HMAC-SHA2
+Algorithm: PhantomEye Sovereign v2.
+
+Encryption: HMAC-SHA512.
+
+Search Type: Fuzzy Indexing.
+
+Time: 0.046600 ms.
