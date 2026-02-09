@@ -1,5 +1,7 @@
 # PhantomEye: Sovereign Searchable Encryption (SSE) 🛡️⚡
 
+> **Note:** This system is powered by the [SovereignVault-SSE-Core](https://github.com/Alaaaa88/SovereignVault-SSE-Core), my high-performance C++ engine designed for sub-microsecond encrypted search.
+
 **PhantomEye** is a high-performance, privacy-preserving search engine designed to align with the Saudi **Personal Data Protection Law (PDPL)** and Vision 2030 data sovereignty goals. It provides a secure way to search over encrypted data without exposing sensitive information.
 
 ## 🚀 The Performance Leap (Sovereign Update)
